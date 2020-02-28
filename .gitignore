@@ -12,6 +12,7 @@ tests/*.png
 tests/*.txt
 tests/*.checkpoint
 .vscode/
+_skbuild/
 
 
 # Byte-compiled / optimized / DLL files
